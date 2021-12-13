@@ -1,4 +1,4 @@
-# JavaScript Bootcamp
+# JavaScript-Challenges
 
   <p align="left">
   <h4>Problem solving and challenges<h3/>
