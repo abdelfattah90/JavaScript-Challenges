@@ -1,6 +1,9 @@
 # JavaScript-Challenges
 
   <p align="left">
+  
+  https://www.w3schools.com/js/js_quiz.asp
+  
   <h4>Problem solving and challenges<h3/>
     <a  target="_blank" href="https://edabit.com/challenges">Edabit</a>
   </p>
