@@ -1,5 +1,5 @@
-
-[JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp)
+### Quiz
+- [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp)
 
 <hr />
 
